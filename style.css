@@ -4,12 +4,13 @@ body {
 }
 
 h1 {
-	color: #323339;
+	color: #333333;
 	font-size: 4em;
 }
 
 p {
-	color: #c5d2db;
+	/*color: #c5d2db;*/
+	color: #ffffff;
 	font-size: 1.5em;
 }
 
