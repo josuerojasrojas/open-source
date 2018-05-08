@@ -1,6 +1,7 @@
 body {
 	background-color: #2096BA;
 	padding-top: 50px;
+	padding: 0;
 }
 
 h1 {
@@ -18,3 +19,42 @@ em {
 	color: #6cbf84
 }
 
+/*FOOTER STUFF*/
+.page-footer {
+	background-color: red;
+}
+
+.page-footer li a{
+	text-decoration: none;
+	color: white;
+}
+
+.page-footer li a:hover{
+	text-decoration: none;
+	color: #2096BA;
+}
+
+.footer-copyright {
+	background-color: darkred;
+	color: white;
+}
+
+/*MEDIA QUERIES*/
+
+@media only screen and (max-device-width: 767px) {
+      .mobile {
+        display: block;
+      }
+      .none-mobile {
+        display: none;
+      }
+    }
+
+@media only screen and (min-device-width: 767px) {
+	.mobile {
+        display: none;
+      }
+      .none-mobile {
+        display: block;
+      }
+}
