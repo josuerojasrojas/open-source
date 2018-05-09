@@ -4,7 +4,9 @@ You have contributed by adding code and closing an issue. Congrats! Now add a li
 
 ## How to
 
-Add a line like this: `- [Alex Flores-Veliz](https://github.com/AlexFloresVeliz)`
+Add a line like this: 
+
+`- [Alex Flores-Veliz](https://github.com/AlexFloresVeliz)`
 
 ## I contributed! Check me out :sunglasses:
 

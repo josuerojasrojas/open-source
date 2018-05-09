@@ -6,14 +6,14 @@ Repo created for those who would like to practice contributing to open source.
 
 ## Fork this repo
 
-<img align="right" width="300" src="form.jpg" alt="fork this repository" />
+<img align="right" width="300" src="readme-images/fork.jpg" alt="fork this repository" />
 
 Fork this repo by clicking on the fork button on the top of this page.
 A copy of this repository will be created in your account.
 
 ## Create a local clone of your fork
 
-<img align="right" width="300" src="clone.png" alt="clone this repository" />
+<img align="right" width="300" src="readme-images/clone.png" alt="clone this repository" />
 
 Now clone this repo to your machine. Go to your GitHub account, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -24,7 +24,7 @@ git clone <url you just copied>
 ```
 where `<url you just copied>` (without the <>) is the url to this repository (the fork, or copy you created). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="clone-url.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="readme-images/clone-url.png" alt="copy URL to clipboard" />
 
 Example:
 ```
@@ -53,7 +53,7 @@ git checkout -b alex-flores-veliz
 
 Pick an issue that you'd like to work on. Issues can be found under `Issues` can be found to the right of `Code` and to the left of `Pull Request` right below the repo name and repo author and will be properly labeled with difficulty levels. Issues will be added regularly. 
 
-<img style="float: right;" src="issues.png" alt="submit pull request" />
+<img style="float: right;" src="readme-images/issues.png" alt="submit pull request" />
 
 After you have completed one of the issues and are content with the work, it's time to get credit for it!
 
@@ -97,7 +97,7 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 Now submit the pull request.
 
-<img style="float: right;" src="pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="readme-images/pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
