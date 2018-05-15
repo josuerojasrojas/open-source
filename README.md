@@ -51,7 +51,7 @@ git checkout -b alex-flores-veliz
 
 ## Make necessary changes and commit those changes
 
-Pick an issue that you'd like to work on. Issues can be found under `Issues` can be found to the right of `Code` and to the left of `Pull Request` right below the repo name and repo author and will be properly labeled with difficulty levels. Issues will be added regularly. 
+Pick an issue that you'd like to work on. `Issues` can be found to the right of `Code` and to the left of `Pull Request` right below the repo name and repo author and will be properly labeled with difficulty levels. Issues will be added regularly. 
 
 <img style="float: right;" src="readme-images/issues.png" alt="submit pull request" />
 
