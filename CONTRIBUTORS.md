@@ -11,3 +11,4 @@ Add a line like this:
 ## I contributed! Check me out :sunglasses:
 
 - [Alex Flores-Veliz](https://github.com/AlexFloresVeliz)
+- [Jerome Christian M. Lumacad](https://github.com/jmlumacad1)
