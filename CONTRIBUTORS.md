@@ -4,13 +4,17 @@ You have contributed by adding code and closing an issue. Congrats! Now add a li
 
 ## How to
 
-Add a line like this: 
+Add a line like this:
 
 `- [Alex Flores-Veliz](https://github.com/AlexFloresVeliz)`
 
 ## I contributed! Check me out :sunglasses:
 
 - [Alex Flores-Veliz](https://github.com/AlexFloresVeliz)
+
+- [Alex Erling](https://github.com/AlexErling)
+- [Jerome Christian M. Lumacad](https://github.com/jmlumacad1)
+
 
 ## I contributed too!
 
