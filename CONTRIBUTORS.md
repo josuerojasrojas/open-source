@@ -14,3 +14,4 @@ Add a line like this:
 - [Alex Erling](https://github.com/AlexErling)
 - [Jerome Christian M. Lumacad](https://github.com/jmlumacad1)
 - [Abraham Lara Granados](https://github.com/AbrahamLara)
+- [Ryan Martinez](https://github.com/RyanM0126)
