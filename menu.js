@@ -6,7 +6,6 @@ $('.nav-bar .burger-menu').click(function(){
   return
 })
 
-// TODO change state of menu_next_state when is clicked it should be set to true. currently when a menu item is clicked it will close the menu but when clicked on menu button it will not open unless clicked again. :easy
 function clickMenu(open){
   if(open){
     $('.nav-bar').addClass('active');

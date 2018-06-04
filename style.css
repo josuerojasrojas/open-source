@@ -56,7 +56,6 @@ em {
 .nav-bar .burger-menu div:last-child {
 	margin-top: 22px;
 }
-/* TODO hamburger should have a transition for smoother ui: easy*/
 .nav-bar.active .burger-menu div:first-child {
 	margin-top: 4px;
 	transform: rotate(45deg);
@@ -70,12 +69,9 @@ em {
 	transform: rotate(-45deg);
 	margin-top: 50%;
 }
-/* TODO: menu should have a transition for smoother ui: easy */
-/* TODO: when menu is active should not scroll to rest of the page: this one is a bit harder issue (intermediate?) */
 .nav-bar .menu-items {
 	width: 100vw;
 	height: 100vh;
-	/*  TODO: change background-color color to something better (maybe match the footer): easy*/
 	background-color: green;
 	transform: translateY(-100%);
 	position: absolute;
@@ -87,18 +83,13 @@ em {
 .nav-bar.active .menu-items {
 	transform: translateY(0);
 }
-/* TODO change color of title, something to go with the theme of the page or menu */
 .nav-bar .menu-items .title {
 	font-weight: 800;
 	font-size: 2rem;
 	letter-spacing: .1rem;
 }
-
-/* TODO: links should have different color for normal or hover: easy */
-/* TODO: maybe have them be something different for hover for example different background-color for different ui or another example add a line and animate the line when hover a link (animate it making it shorter or longer when hover)*/
 .nav-bar .menu-items .menu-link {
 	font-size: 2rem;
-	/* TODO each item should  have a bit more spacing between each one*/
 }
 /* ------------------------------------------------------------ */
 /*FOOTER STUFF*/
@@ -167,7 +158,6 @@ em {
 	.nav-bar .menu-items .title {
 		font-size: 1.5rem;
 	}
-	/* TODO align and space the links to the right */
 	.nav-bar .menu-items .menu-link {
 		font-size: 1.25rem;
 	}
