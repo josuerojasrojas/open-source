@@ -17,6 +17,24 @@
   	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
   </head>
   <body>
+
+    <!-- navbar -->
+    <nav class='nav-bar'>
+      <div class='burger-menu'>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class='menu-items'>
+        <div class='title'>Open-Source</div>
+        <a class='menu-link' onclick='clickMenu(false)' href='https://github.com/AlexFloresVeliz/open-source'>Source</a>
+        <a class='menu-link' onclick='clickMenu(false)' href='#other'>Other</a>
+        <a class='menu-link' onclick='clickMenu(false)' href='#other2'>Other2</a>
+        <a class='menu-link' onclick='clickMenu(false)' href='#other4'>Other3</a>
+        <a class='menu-link' onclick='clickMenu(false)' href='#other4'>Other4</a>
+      </div>
+    </nav>
+
   	<div class="container">
   		<h1>Hello, World!</h1>
   		<p>Welcome to my <em>world.</em></p>
@@ -75,4 +93,7 @@
 </footer>
 <!--/.Footer-->
   </body>
+  <!-- menu js for menu functionality... could be placed on top to be more organize but will need dom ready -->
+  <script src="./menu.js"></script>
+
 </html>
