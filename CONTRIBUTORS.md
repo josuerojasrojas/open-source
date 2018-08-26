@@ -15,3 +15,4 @@ Add a line like this:
 - [Jerome Christian M. Lumacad](https://github.com/jmlumacad1)
 - [Abraham Lara Granados](https://github.com/AbrahamLara)
 - [Ryan Martinez](https://github.com/RyanM0126)
+- [Josue Rojas](https://github.com/josuerojasrojas)
